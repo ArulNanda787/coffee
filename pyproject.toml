@@ -9,4 +9,5 @@ dependencies = [
     "pandas>=2.3.3",
     "playwright>=1.60.0",
     "python-dotenv>=1.2.1",
+    "streamlit>=1.50.0",
 ]
